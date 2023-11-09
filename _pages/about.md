@@ -15,13 +15,13 @@ Hello, young tech enthusiasts! 👋
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
-## About Mr. Daviddhc20120601
+## About Ms Xijy31
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+👩‍🏫 **Name:** Ms Xijy31
 
 🏫 **Grade:** Sixth Grade
 
-🖥️ **Subject:** Computer Science
+🖥️ **Subject:** Education
 
 With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
 
