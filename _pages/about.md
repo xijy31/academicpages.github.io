@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, young tech enthusiasts! 👋
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+![foo-bar-identity.jpg]([https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fscience%2Fautumn-season&psig=AOvVaw1vRnwynDoLQ-RgkO3XCBem&ust=1699623313868000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjSgbSEt4IDFQAAAAAdAAAAABAE))
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
