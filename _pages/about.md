@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
+# Xijy31's private page
 
 Hello, young tech enthusiasts! 👋
 
